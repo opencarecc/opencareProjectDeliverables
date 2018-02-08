@@ -67,9 +67,7 @@ Ethics requirements 1\
 Ethics requirements 2\
 Ethics requirements 3\
 Ethics requirements 4\
-Ethics requirements 5\
-
-
+Ethics requirements 5
 
 
 To get to know more of the project’s implementation, please read our [proposal](https://drive.google.com/open?id=0BxnwAmGNB9t9NVRtZUlZZGRtUW8)!
