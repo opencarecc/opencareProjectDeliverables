@@ -33,7 +33,7 @@ Deployed, tested OpenCare online space on the production server\
 20 high-quality posts\
 Draft report on engaging open networks in meaningful online conversations\
 Final report on engaging open networks in meaningful online conversations\
-Ethnographic report\
+Ethnographic report
 
 ### WP3 - Prototype community-driven care services
 Co-designing care services: a practical guide\
