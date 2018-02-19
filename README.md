@@ -60,7 +60,7 @@ Ethics interim evaluation and guidance report\
 Final ethics report
 Periodic report #1\
 Periodic report #2\
-Final report\
+Final report
 
 ### WP7 - Ethics requirements
 Ethics requirements 1\
